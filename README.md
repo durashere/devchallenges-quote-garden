@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">TO_CHANGE</h1>
+<h1 align="center">Quote Garden</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,11 +12,11 @@
       Demo
     </a>
     <span> | </span>
-    <a href="TO_CHANGE">
+    <a href="https://github.com/durashere/devchallenges-quote-garden">
       Solution
     </a>
     <span> | </span>
-    <a href="TO_CHANGE">
+    <a href="https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8">
       Challenge
     </a>
   </h3>
@@ -40,17 +40,21 @@
 
 ### User Stories
 
-- [x] Example story
+- [ ] I can see a random quote
+- [ ] I can generate a new random quote
+- [ ] When I select quote author, I can see a list of quotes from them
+- [ ] I can see quote genre under the author
 
 ### Built With
 
 - [React](https://nextjs.org/)
 - [Tailwind](https://tailwindcss.com/)
+- [API](https://pprathameshmore.github.io/QuoteGarden/)
 <!-- - [Storybook](https://storybook.js.org/) -->
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](TO_CHANGE) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/8Y3J4ucAMQpSnYTwwWW8) was to build an application to complete the given user stories.
 
 ## How To Use
 
@@ -58,7 +62,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone TO_CHANGE
+$ git clone https://github.com/durashere/devchallenges-quote-garden
 
 # Install dependencies
 $ npm install
