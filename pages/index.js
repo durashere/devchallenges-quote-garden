@@ -42,7 +42,7 @@ export default function Home({ data }) {
   )
 }
 
-export async function getStaticProps() {
+export async function getServerSideProps() {
   const res = await fetch(
     `https://quote-garden.herokuapp.com/api/v2/quotes/random`
   )
