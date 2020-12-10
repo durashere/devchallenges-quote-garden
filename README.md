@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="TO_CHANGE">
+    <a href="https://devchallenges-quote-garden.vercel.app">
       Demo
     </a>
     <span> | </span>
@@ -40,10 +40,10 @@
 
 ### User Stories
 
-- [ ] I can see a random quote
-- [ ] I can generate a new random quote
-- [ ] When I select quote author, I can see a list of quotes from them
-- [ ] I can see quote genre under the author
+- [x] I can see a random quote
+- [x] I can generate a new random quote
+- [x] When I select quote author, I can see a list of quotes from them
+- [x] I can see quote genre under the author
 
 ### Built With
 

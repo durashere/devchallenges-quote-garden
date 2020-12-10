@@ -6,6 +6,7 @@ module.exports = {
       mon: ["Montserrat", "sans-serif"],
       heb: ["Heebo", "sans-serif"],
       pop: ["Poppins", "sans-serif"],
+      ral: ["Raleway", "sans-serif"],
     },
     colors: {
       transparent: {
@@ -35,6 +36,9 @@ module.exports = {
       blue: {
         c2D9CDB: "#2D9CDB",
         c100E1D: "#100E1D",
+      },
+      yellow: {
+        cF7DF94: "#F7DF94",
       },
     },
     extend: {},
